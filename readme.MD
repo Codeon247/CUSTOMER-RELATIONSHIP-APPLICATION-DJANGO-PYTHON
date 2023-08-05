@@ -1,6 +1,6 @@
 # CRM App Readme
 
-![CRM App Banner](/CRMAPP.png)
+![CRM App Banner](images/CRMAPP.png)
 
 Congratulations on building your CRM (Customer Relationship Management) app using Django! This README file will provide an overview of your CRM app, how to set it up, and basic usage instructions.
 
@@ -21,7 +21,7 @@ Your CRM app is designed to help you manage and track interactions with your cus
 
 ## Features
 
-![Feature Image](/CRMAPP1.png.png)
+![Feature Image](images/CRMAPP1.png.png)
 
 - **Customer Management**: Add, view, edit, and delete customer information, including contact details and other relevant data.
 
@@ -92,7 +92,7 @@ python manage.py runserver
 
 Your CRM app will be accessible at `http://localhost:8000/`. You can log in with the superuser account you created earlier at `http://localhost:8000/admin/` to manage users, customers, tasks, and other data.
 
-![CRM App Dashboard](images/dashboard.png)
+![CRM App Dashboard](images/CRMAPP.png)
 
 For production deployment, follow best practices, such as using a production-ready web server (e.g., Gunicorn) and a reverse proxy (e.g., Nginx).
 
