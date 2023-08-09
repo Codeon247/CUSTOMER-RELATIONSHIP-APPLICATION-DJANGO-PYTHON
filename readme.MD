@@ -13,15 +13,14 @@ Congratulations on building your CRM (Customer Relationship Management) app usin
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-Your CRM app is designed to help you manage and track interactions with your customers, leads, and prospects effectively. It allows you to store customer details, track communication history, manage tasks, and generate reports to gain insights into your customer base.
+This CRM app is designed to help you manage and track interactions with your customers, leads, and prospects effectively. It allows you to store customer details, track communication history and manage various tasks.
 
 ## Features
 
-![Feature Image](images/CRMAPP1.png.png)
+![Feature Image](CRMAPP1.png)
 
 - **Customer Management**: Add, view, edit, and delete customer information, including contact details and other relevant data.
 
@@ -92,16 +91,12 @@ python manage.py runserver
 
 Your CRM app will be accessible at `http://localhost:8000/`. You can log in with the superuser account you created earlier at `http://localhost:8000/admin/` to manage users, customers, tasks, and other data.
 
-![CRM App Dashboard](images/CRMAPP.png)
+![CRM App Dashboard](CRMAPP.png)
 
 For production deployment, follow best practices, such as using a production-ready web server (e.g., Gunicorn) and a reverse proxy (e.g., Nginx).
 
 ## Contributing
 
 Thank you for considering contributing to this CRM app! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue in the project repository.
-
-## License
-
-This CRM app is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
 ---
