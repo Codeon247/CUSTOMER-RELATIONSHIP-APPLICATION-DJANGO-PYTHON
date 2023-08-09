@@ -1,8 +1,6 @@
 # CRM App Readme
 
-![CRM App Banner](images/CRMAPP.png)
-
-Congratulations on building your CRM (Customer Relationship Management) app using Django! This README file will provide an overview of your CRM app, how to set it up, and basic usage instructions.
+![CRM App Banner](CRMAPP.png)
 
 ## Table of Contents
 
